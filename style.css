@@ -1,0 +1,8 @@
+/* ceci est ton fichier CSS principal. Tout le design se fera à partir de ce fichier. Attention l'ordre à son importance. Les attributs du bas annulent ceux du haut ! Par convention, on nomme ce fichier 'style.css'.  */
+p {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(58, 56, 56);
+    font-size: xx-large;
+    font-weight: 900;
+    text-transform: uppercase;
+}
